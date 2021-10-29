@@ -22,4 +22,5 @@ Hi, I'm Adán de la Rosa, a self-taught software engineer from Tenerife. I like 
 
 
 **📈my github stats**
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=AdanRL&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=AdanRL&show_icons=true&theme=gotham" alt="adanRL" />
