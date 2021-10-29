@@ -24,7 +24,6 @@ I'm Adán de la Rosa, a self-taught software engineer from Tenerife. I like anyt
 <div> 
   <a href = "adan.rl.93@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/adan-de-la-rosa-lugo-770613206/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <!-- <img height="170em" alt="rafaballerini-snake" src="assets/snake.svg"/> -->
 </div>
 
 ![github contribution grid snake animation](https://raw.githubusercontent.com/AdanRL/AdanRL/output/github-contribution-grid-snake.svg)
