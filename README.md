@@ -20,7 +20,8 @@ I'm Adán de la Rosa, a self-taught software engineer from Tenerife. I like anyt
   <img align="center" alt="Adan-Csharp" height="30" width="40" src="assets/csharp.svg">
   <img align="center" alt="Adan-Ruby" height="30" width="40" src="assets/ruby.svg">
   <img align="center" alt="Adan-docker" height="30" width="40" src="assets/docker.svg">
-  <img align="center" alt="Adan-docker" height="30" width="40" src="assets/unity.svg">
+  <img align="center" alt="Adan-docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg">
+
 </div><br>
 <div> 
   <a href = "adan.rl.93@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
